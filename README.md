@@ -1,8 +1,4 @@
 <!-- Clean Banner -->
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/4ac7967b-5b0c-449d-b76c-2dcfb21e6afd" width="85%" />
-</p>
-
 <h1 align="center">Hello World 👋 I'm <span style="color:#00eaff;">Divyesh Kubavat</span></h1>
 <h3 align="center">Data Scientist | AI & ML Enthusiast | Deep Learning Researcher</h3>
 
@@ -31,7 +27,7 @@
 
 ## 🛠 Languages & Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,cpp,git,github,vscode,,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,cpp,git,github,vscode,mysql" />
 </p>
 
 ---
